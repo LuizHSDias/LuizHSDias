@@ -1,34 +1,123 @@
-## Olá
+<h1 align="center">Olá! 👋 Eu sou Luiz Henrique Santos Dias</h1>
 
-Meu nome é Luiz Henrique. Sou Técnico em Informática pela Universidade Federal de Viçosa (UFV) – Campus Florestal e atualmente curso Engenharia de Computação no CEFET-MG Campus Timóteo.
+<p align="center">
+  Estudante de Engenharia de Computação • Desenvolvedor Back-end • Ciência de Dados
+</p>
 
-Tenho interesse em Desenvolvimento Back-end, Desenvolvimento Web e Engenharia de Software, atuando em projetos acadêmicos e pessoais que envolvem Java, Spring Boot, Angular, APIs REST e bancos de dados.
+---
+
+## 👨‍💻 Sobre mim
+
+Sou Técnico em Informática pela **Universidade Federal de Viçosa (UFV) – Campus Florestal** e atualmente curso **Engenharia de Computação** no **CEFET-MG – Campus Timóteo**.
+
+Tenho experiência acadêmica em desenvolvimento de software utilizando **Java, Spring Boot, Angular, SQL e APIs REST**, além de atuar em projetos de **Ciência de Dados** com **Python, Pandas, NumPy, Scikit-learn e Machine Learning**.
+
+Atualmente participo de um projeto de pesquisa em Educação STEM, trabalhando com coleta, organização, tratamento e análise de dados.
+
+Estou em busca da minha primeira oportunidade profissional para atuar como Desenvolvedor Back-end, Desenvolvedor Java ou Cientista de Dados.
+
+---
 
 ## 🌐 Portfólio
 
-Acesse meu portfólio:
-🔗 https://luizhsdias.vercel.app
+🔗 **Portfólio**
 
-## ⚡ Tecnologias
+https://luizhsdias.vercel.app
+
+---
+
+## 🚀 Tecnologias
+
+### 💻 Linguagens
+
+- Java
+- Python
+- SQL
+- JavaScript
+- TypeScript
+- C
+
+### ⚙️ Frameworks
+
+- Spring Boot
+- Spring Framework
+- Angular
+- React
+
+### 📊 Ciência de Dados
+
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Machine Learning
+
+### 🗄️ Banco de Dados
+
+- SQL
+- MySQL
+
+### 🛠 Ferramentas
+
+- Git
+- GitHub
+- GitLab
+- Maven
+
+---
+
+## 🎓 Formação
+
+🎓 Engenharia de Computação  
+**CEFET-MG – Campus Timóteo**  
+2023 – Previsão de conclusão: 2028
+
+🎓 Técnico em Informática  
+**Universidade Federal de Viçosa – Campus Florestal**  
+Concluído em 2022
+
+---
+
+## 📌 Principais Projetos
+
+📚 Sistema de Controle de Empréstimo de Livros
 
 - Java
 - Spring Boot
 - Angular
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- SQL / MySQL
-- Git e GitHub
+- SQL
+- APIs REST
+
+📊 Predição de Matrículas no SISU utilizando Machine Learning
+
 - Python
+- Pandas
+- Scikit-learn
+- Random Forest
+- Decision Tree
+- SVM
 
-## 📚 Formação
+🖥️ Compilador MiniPascal
 
-🎓 Engenharia de Computação — CEFET-MG (Em Andamento)
+- Java
+- Compiladores
+- Análise Léxica
+- Parser
+- Análise Semântica
 
-🎓 Técnico em Informática — UFV Campus Florestal
+---
 
 ## 📫 Contato
 
-- GitHub: https://github.com/LuizHSDias
-- LinkedIn: https://www.linkedin.com/in/dev-luizh/
+📧 **E-mail**
+luizhenriquemc15@gmail.com
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/dev-luizh/
+
+🐙 **GitHub**
+https://github.com/LuizHSDias
+
+---
+
+⭐ Obrigado por visitar meu perfil!
