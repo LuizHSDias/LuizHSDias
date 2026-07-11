@@ -1,4 +1,4 @@
-## 👋 Olá
+## Olá
 
 Meu nome é Luiz Henrique. Sou Técnico em Informática pela Universidade Federal de Viçosa (UFV) – Campus Florestal e atualmente curso Engenharia de Computação no CEFET-MG Campus Timóteo.
 
@@ -32,4 +32,3 @@ Acesse meu portfólio:
 
 - GitHub: https://github.com/LuizHSDias
 - LinkedIn: https://www.linkedin.com/in/dev-luizh/
-- Portfólio: https://luizhsdias.vercel.app
