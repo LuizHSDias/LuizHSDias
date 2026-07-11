@@ -130,7 +130,6 @@ Implementação de um compilador para uma linguagem baseada em MiniPascal, conte
 ### Engenharia de Computação
 
 **Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)**
-
 📅 2023 — Previsão de conclusão: 2028
 
 ---
@@ -138,7 +137,6 @@ Implementação de um compilador para uma linguagem baseada em MiniPascal, conte
 ### Técnico em Informática
 
 **Universidade Federal de Viçosa (UFV) – Campus Florestal**
-
 📅 Concluído em 2022
 
 ---
@@ -146,28 +144,16 @@ Implementação de um compilador para uma linguagem baseada em MiniPascal, conte
 # 📫 Contato
 
 📧 **E-mail**
-
 **luizhenriquemc15@gmail.com**
 
 💼 **LinkedIn**
-
-www.linkedin.com/in/dev-luizh
+**www.linkedin.com/in/dev-luizh**
 
 🐙 **GitHub**
-
-github.com/LuizHSDias
+**https://github.com/LuizHSDias**
 
 🌐 **Portfólio**
-
 🚧 Atualmente em atualização
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=LuizHSDias&label=Visualizações&color=0e75b6&style=flat"/>
-
-</p>
 
 ---
 
