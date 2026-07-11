@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
-</p>
-
-<p align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
@@ -42,13 +38,13 @@ Tenho experiência acadêmica em desenvolvimento de software utilizando **Java, 
 
 Atualmente sou **Bolsista de Pesquisa em Educação STEM**, participando de atividades relacionadas à coleta, organização, tratamento e análise de dados.
 
-Tenho interesse em **Desenvolvimento Back-end**, **Engenharia de Software**, **Ciência de Dados** e **Inteligência Artificial**, buscando desenvolver soluções escaláveis, bem estruturadas e que gerem impacto positivo.
+Tenho interesse em **Desenvolvimento Back-end**, **Engenharia de Software**, **Ciência de Dados** e **Inteligência Artificial**, buscando desenvolver soluções escaláveis e resolver problemas por meio da tecnologia.
 
 ---
 
 # 🚀 Tecnologias
 
-## 💻 Linguagens
+### 💻 Linguagens
 
 - Java
 - Python
@@ -57,14 +53,14 @@ Tenho interesse em **Desenvolvimento Back-end**, **Engenharia de Software**, **C
 - JavaScript
 - TypeScript
 
-## ⚙️ Frameworks
+### ⚙️ Frameworks
 
 - Spring Boot
 - Spring Framework
 - Angular
 - React
 
-## 📊 Ciência de Dados
+### 📊 Ciência de Dados
 
 - Pandas
 - NumPy
@@ -72,12 +68,12 @@ Tenho interesse em **Desenvolvimento Back-end**, **Engenharia de Software**, **C
 - Matplotlib
 - Machine Learning
 
-## 🗄 Banco de Dados
+### 🗄 Banco de Dados
 
 - MySQL
 - SQL
 
-## 🛠 Ferramentas
+### 🛠 Ferramentas
 
 - Git
 - GitHub
@@ -88,66 +84,11 @@ Tenho interesse em **Desenvolvimento Back-end**, **Engenharia de Software**, **C
 
 ---
 
-# 💼 Experiência Acadêmica
-
-## 🎓 Bolsista de Pesquisa em Educação STEM (CEFET-MG)
-
-**Mai/2026 – Atual**
-
-- Revisão bibliográfica;
-- Coleta, organização e tratamento de dados;
-- Aplicação de questionários;
-- Correção e anonimização de dados;
-- Apoio às análises estatísticas.
-
----
-
-## 💻 Programa de Educação Tutorial Interdisciplinar de Timóteo (PETIT)
-
-**Mai/2025 – Abr/2026**
-
-- Desenvolvimento de sistema utilizando Java, Spring Boot, Angular e SQL;
-- Desenvolvimento de APIs REST;
-- Administração e manutenção do site institucional;
-- Participação em projetos de ensino, pesquisa e extensão.
-
----
-
-## 📐 Monitor de Integração e Séries (Cálculo I)
-
-**Ago/2024 – Dez/2024**
-
-- Apoio aos estudantes;
-- Resolução de exercícios;
-- Métodos de integração;
-- Séries Numéricas;
-- Séries de Taylor.
-
----
-
-# 🎓 Formação
-
-### 🎓 Engenharia de Computação
-
-**Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)**
-
-📅 2023 – Previsão de conclusão: 2028
-
----
-
-### 🎓 Técnico em Informática
-
-**Universidade Federal de Viçosa (UFV) – Campus Florestal**
-
-📅 Concluído em 2022
-
----
-
 # 📌 Principais Projetos
 
 ## 📚 Sistema de Controle de Empréstimo de Livros
 
-Sistema acadêmico desenvolvido durante o PETIT para gerenciamento de empréstimos utilizando arquitetura em camadas.
+Sistema desenvolvido durante o PETIT para gerenciamento de empréstimos de livros utilizando arquitetura em camadas e APIs REST.
 
 **Tecnologias**
 
@@ -155,13 +96,12 @@ Sistema acadêmico desenvolvido durante o PETIT para gerenciamento de empréstim
 - Spring Boot
 - Angular
 - SQL
-- APIs REST
 
 ---
 
 ## 📊 Predição de Matrículas no SISU utilizando Machine Learning
 
-Projeto de Ciência de Dados para prever a efetivação de matrículas utilizando diferentes algoritmos de Machine Learning.
+Projeto de Ciência de Dados para prever a efetivação de matrículas utilizando técnicas de Machine Learning e análise de dados.
 
 **Tecnologias**
 
@@ -170,47 +110,36 @@ Projeto de Ciência de Dados para prever a efetivação de matrículas utilizand
 - NumPy
 - Scikit-learn
 - Random Forest
-- Decision Tree
-- SVM
 - Gradient Boosting
+- SVM
 
 ---
 
 ## 🖥️ Compilador MiniPascal
 
-Desenvolvimento de um compilador para uma linguagem baseada em MiniPascal.
+Implementação de um compilador para uma linguagem baseada em MiniPascal, contendo análise léxica, sintática e semântica.
 
-**Principais conceitos**
+**Tecnologias**
 
-- Análise Léxica
-- Parser
-- Análise Semântica
-- Tabela de Símbolos
 - Java
 
 ---
 
-# 📈 Estatísticas do GitHub
+# 🎓 Formação
 
-<p align="center">
+### Engenharia de Computação
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuizHSDias&show_icons=true&theme=github_dark&hide_border=true"/>
+**Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)**
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHSDias&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+📅 2023 — Previsão de conclusão: 2028
 
 ---
 
-# 🌱 Atualmente estudando
+### Técnico em Informática
 
-- Inteligência Artificial
-- Machine Learning
-- Spring Boot
-- Arquitetura de Software
-- APIs REST
-- Ciência de Dados
-- Engenharia de Prompt
+**Universidade Federal de Viçosa (UFV) – Campus Florestal**
+
+📅 Concluído em 2022
 
 ---
 
@@ -222,15 +151,15 @@ Desenvolvimento de um compilador para uma linguagem baseada em MiniPascal.
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/dev-luizh/
+www.linkedin.com/in/dev-luizh
 
 🐙 **GitHub**
 
-https://github.com/LuizHSDias
+github.com/LuizHSDias
 
 🌐 **Portfólio**
 
-🚧 Atualmente em atualização...
+🚧 Atualmente em atualização
 
 ---
 
@@ -243,9 +172,9 @@ https://github.com/LuizHSDias
 ---
 
 <h3 align="center">
-⭐ Obrigado por visitar meu perfil!
+⭐ Obrigado pela visita!
 </h3>
 
 <p align="center">
-Sempre aberto a aprender novas tecnologias, colaborar em projetos e compartilhar conhecimento.
+Fique à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor.
 </p>
