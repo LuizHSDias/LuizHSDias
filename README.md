@@ -18,14 +18,6 @@ Estou em busca da minha primeira oportunidade profissional para atuar como Desen
 
 ---
 
-## 🌐 Portfólio
-
-🔗 **Portfólio**
-
-https://luizhsdias.vercel.app
-
----
-
 ## 🚀 Tecnologias
 
 ### 💻 Linguagens
