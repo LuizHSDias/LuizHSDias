@@ -118,6 +118,9 @@ Projeto de Ciência de Dados para prever a efetivação de matrículas utilizand
 - 🌲 Random Forest
 - 🚀 Gradient Boosting
 - 🎯 SVM
+- 
+🔗 **Repositório:**  
+https://github.com/LuizHSDias/Ciencia_de_Dados_SISU
 
 ---
 
@@ -132,6 +135,9 @@ Sistema REST para gerenciamento de empréstimos de livros utilizando arquitetura
 - 🅰️ Angular
 - 🗄️ MySQL
 - 🔗 APIs REST
+
+🔗 **Repositório:**  
+https://github.com/LuizHSDias/Front-End-PETIT
 
 ---
 
