@@ -29,99 +29,62 @@ Apaixonado por desenvolvimento de software, arquitetura de sistemas, ciência de
 
 # 🚀 Tecnologias
 
+# 🚀 Tecnologias
+
 ## 💻 Linguagens
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
-
-</p>
+| Tecnologia | |
+|------------|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28"/> | **Java** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> | **Python** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28"/> | **C** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/> | **JavaScript** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/> | **TypeScript** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> | **SQL / MySQL** |
 
 ---
 
 ## ⚙️ Frameworks
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
-
-</p>
+| Tecnologia | |
+|------------|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28"/> | **Spring Boot / Spring Framework** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="28"/> | **Angular** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/> | **React** |
 
 ---
 
 ## 📊 Ciência de Dados
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/>
-
-</p>
-
-- Machine Learning
+| Tecnologia | |
+|------------|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> | **Python** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="28"/> | **Pandas** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="28"/> | **NumPy** |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="28"/> | **Scikit-learn** |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="28"/> | **Matplotlib** |
+| 🤖 | **Machine Learning** |
 
 ---
 
 ## 🗄 Banco de Dados
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
-
-</p>
+| Tecnologia | |
+|------------|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> | **MySQL** |
 
 ---
 
 ## 🛠 Ferramentas
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="48"/>
-
-</p>
-
----
-
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuizHSDias&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHSDias&layout=compact&theme=github_dark"/>
-
-</p>
+| Tecnologia | |
+|------------|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/> | **Git** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> | **GitHub** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="28"/> | **GitLab** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="28"/> | **Maven** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28"/> | **VS Code** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="28"/> | **Eclipse** |
 
 ---
 
@@ -129,26 +92,17 @@ Apaixonado por desenvolvimento de software, arquitetura de sistemas, ciência de
 
 ## 🖥️ Compilador MiniPascal
 
-Compilador para uma linguagem baseada em MiniPascal contendo:
-
-- Análise Léxica
-- Análise Sintática
-- Análise Semântica
-- Geração de Bytecode para JVM
+Implementação de um compilador para uma linguagem baseada em MiniPascal, contendo análise léxica, sintática, semântica e geração de bytecode para a JVM.
 
 ### Tecnologias
 
-<p>
+- ☕ Java
+- 🧩 ANTLR4
+- ⚙️ Maven
+- ☁️ JVM Bytecode
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38"/>
-
-<img src="https://www.antlr.org/images/logo.png" width="38"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="38"/>
-
-</p>
-
-🔗 https://github.com/LuizHSDias/Compilador-Minipascal
+🔗 **Repositório:**  
+https://github.com/LuizHSDias/Compilador-Minipascal
 
 ---
 
@@ -158,37 +112,28 @@ Projeto de Ciência de Dados para prever a efetivação de matrículas utilizand
 
 ### Tecnologias
 
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="38"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="38"/>
-
-</p>
+- 🐍 Python
+- 🐼 Pandas
+- 🔢 NumPy
+- 🤖 Scikit-learn
+- 📈 Matplotlib
+- 🌲 Random Forest
+- 🚀 Gradient Boosting
+- 🎯 SVM
 
 ---
 
 ## 📚 Sistema de Controle de Empréstimo de Livros
 
-Sistema REST para gerenciamento de empréstimos de livros.
+Sistema REST para gerenciamento de empréstimos de livros utilizando arquitetura em camadas.
 
 ### Tecnologias
 
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="38"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38"/>
-
-</p>
+- ☕ Java
+- 🍃 Spring Boot
+- 🅰️ Angular
+- 🗄️ MySQL
+- 🔗 APIs REST
 
 ---
 
