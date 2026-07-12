@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou Luiz Henrique Santos Dias</h1>
+<h1 align="center">Olá! 👋 Eu sou Luiz</h1>
 
 <p align="center">
   <strong>Estudante de Engenharia de Computação • Desenvolvedor Back-end • Java • Python</strong>
@@ -6,26 +6,6 @@
 
 <p align="center">
   Apaixonado por desenvolvimento de software, arquitetura de sistemas e ciência de dados.
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </p>
 
 ---
@@ -44,43 +24,61 @@ Tenho interesse em **Desenvolvimento Back-end**, **Engenharia de Software**, **C
 
 # 🚀 Tecnologias
 
-### 💻 Linguagens
+## 💻 Linguagens
 
-- Java
-- Python
-- C
-- SQL
-- JavaScript
-- TypeScript
+<p>
+<img src="https://skillicons.dev/icons?i=java" width="48"/>
+<img src="https://skillicons.dev/icons?i=python" width="48"/>
+<img src="https://skillicons.dev/icons?i=c" width="48"/>
+<img src="https://skillicons.dev/icons?i=js" width="48"/>
+<img src="https://skillicons.dev/icons?i=ts" width="48"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+</p>
 
-### ⚙️ Frameworks
+---
 
-- Spring Boot
-- Spring Framework
-- Angular
-- React
+## ⚙️ Frameworks
 
-### 📊 Ciência de Dados
+<p>
+<img src="https://skillicons.dev/icons?i=spring" width="48"/>
+<img src="https://skillicons.dev/icons?i=angular" width="48"/>
+<img src="https://skillicons.dev/icons?i=react" width="48"/>
+</p>
 
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
+---
+
+## 📊 Ciência de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" width="48"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" width="48"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48"/>
+<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="48"/>
+</p>
+
 - Machine Learning
 
-### 🗄 Banco de Dados
+---
 
-- MySQL
-- SQL
+## 🗄 Banco de Dados
 
-### 🛠 Ferramentas
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+</p>
 
-- Git
-- GitHub
-- GitLab
-- Maven
-- VS Code
-- Eclipse
+---
+
+## 🛠 Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" width="48"/>
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<img src="https://skillicons.dev/icons?i=gitlab" width="48"/>
+<img src="https://skillicons.dev/icons?i=maven" width="48"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/>
+<img src="https://skillicons.dev/icons?i=eclipse" width="48"/>
+</p>
 
 ---
 
@@ -92,10 +90,12 @@ Sistema desenvolvido durante o PETIT para gerenciamento de empréstimos de livro
 
 **Tecnologias**
 
-- Java
-- Spring Boot
-- Angular
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=java" width="36"/>
+<img src="https://skillicons.dev/icons?i=spring" width="36"/>
+<img src="https://skillicons.dev/icons?i=angular" width="36"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="36"/>
+</p>
 
 ---
 
@@ -105,23 +105,26 @@ Projeto de Ciência de Dados para prever a efetivação de matrículas utilizand
 
 **Tecnologias**
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Random Forest
-- Gradient Boosting
-- SVM
+<p>
+<img src="https://skillicons.dev/icons?i=python" width="36"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="36"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" width="36"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36"/>
+</p>
 
 ---
 
 ## 🖥️ Compilador MiniPascal
 
-Implementação de um compilador para uma linguagem baseada em MiniPascal, contendo análise léxica, sintática e semântica.
+Implementação de um compilador para uma linguagem baseada em MiniPascal, contendo análise léxica, sintática, semântica e geração de bytecode para a JVM.
 
 **Tecnologias**
 
-- Java
+<p>
+<img src="https://skillicons.dev/icons?i=java" width="36"/>
+<img src="https://cdn.simpleicons.org/antlr/FF6F00" width="36"/>
+<img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="36"/>
+</p>
 
 ---
 
@@ -130,6 +133,7 @@ Implementação de um compilador para uma linguagem baseada em MiniPascal, conte
 ### Engenharia de Computação
 
 **Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)**
+
 📅 2023 — Previsão de conclusão: 2028
 
 ---
@@ -137,6 +141,7 @@ Implementação de um compilador para uma linguagem baseada em MiniPascal, conte
 ### Técnico em Informática
 
 **Universidade Federal de Viçosa (UFV) – Campus Florestal**
+
 📅 Concluído em 2022
 
 ---
@@ -144,16 +149,16 @@ Implementação de um compilador para uma linguagem baseada em MiniPascal, conte
 # 📫 Contato
 
 📧 **E-mail**
+
 **luizhenriquemc15@gmail.com**
 
 💼 **LinkedIn**
-**www.linkedin.com/in/dev-luizh**
+
+www.linkedin.com/in/dev-luizh
 
 🐙 **GitHub**
-**https://github.com/LuizHSDias**
 
-🌐 **Portfólio**
-🚧 Atualmente em atualização
+github.com/LuizHSDias
 
 ---
 
