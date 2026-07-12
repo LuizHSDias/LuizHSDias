@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Apaixonado por desenvolvimento de software, arquitetura de sistemas, ciência de dados e inteligência artificial.
+Transformando conhecimento em soluções através do desenvolvimento de software, da engenharia de software e da ciência de dados.
 </p>
 
 ---
