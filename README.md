@@ -29,8 +29,6 @@ Apaixonado por desenvolvimento de software, arquitetura de sistemas, ciência de
 
 # 🚀 Tecnologias
 
-# 🚀 Tecnologias
-
 ## 💻 Linguagens
 
 | Tecnologia | |
@@ -164,7 +162,7 @@ Concluído em 2022
 **www.linkedin.com/in/dev-luizh**
 
 🐙 **GitHub**
-**github.com/LuizHSDias**
+**https://github.com/LuizHSDias**
 
 ---
 
