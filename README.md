@@ -8,6 +8,20 @@
 Transformando conhecimento em soluções através do desenvolvimento de software, da engenharia de software e da ciência de dados.
 </p>
 
+<p align="center">
+  <a href="https://luizhsdias.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfólio-2563EB?style=for-the-badge" alt="Portfólio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/LuizHSDias" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/dev-luizh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 ---
 
 # 👨‍💻 Sobre mim
@@ -118,7 +132,7 @@ Projeto de Ciência de Dados para prever a efetivação de matrículas utilizand
 - 🌲 Random Forest
 - 🚀 Gradient Boosting
 - 🎯 SVM
-- 
+
 🔗 **Repositório:**  
 https://github.com/LuizHSDias/Ciencia_de_Dados_SISU
 
@@ -145,7 +159,7 @@ https://github.com/LuizHSDias/Front-End-PETIT
 
 ### Engenharia de Computação
 
-Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
+**Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)**
 
 2023 – 2028
 
@@ -153,7 +167,7 @@ Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
 
 ### Técnico em Informática
 
-Universidade Federal de Viçosa (UFV)
+**Universidade Federal de Viçosa (UFV)**
 
 Concluído em 2022
 
@@ -161,14 +175,17 @@ Concluído em 2022
 
 # 📫 Contato
 
-📧 **Email**
+📧 **E-mail**  
 **luizhenriquemc15@gmail.com**
 
-💼 **LinkedIn**
+💼 **LinkedIn**  
 **www.linkedin.com/in/dev-luizh**
 
-🐙 **GitHub**
+🐙 **GitHub**  
 **https://github.com/LuizHSDias**
+
+🌐 **Portfólio**  
+**https://luizhsdias.vercel.app/**
 
 ---
 
@@ -177,5 +194,5 @@ Concluído em 2022
 </h3>
 
 <p align="center">
-Fique à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor.
+Fique à vontade para explorar meus repositórios, conhecer meus projetos e acompanhar minha evolução como desenvolvedor.
 </p>
