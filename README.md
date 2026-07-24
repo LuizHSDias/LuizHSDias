@@ -13,10 +13,6 @@ Transformando conhecimento em soluções através do desenvolvimento de software
     <img src="https://img.shields.io/badge/🌐%20Portfólio-2563EB?style=for-the-badge" alt="Portfólio"/>
   </a>
   &nbsp;
-  <a href="https://github.com/LuizHSDias" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/dev-luizh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
