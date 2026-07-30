@@ -24,7 +24,7 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 
 🎓 Estudante de **Engenharia de Computação** no **CEFET-MG – Campus Timóteo**.
 
-💻 Técnico em Informática pela **Universidade Federal de Viçosa (UFV)**.
+💻 Técnico em Informática pela **Universidade Federal de Viçosa (UFV) – Campus Florestal**.
 
 🔬 Atualmente sou **Bolsista de Pesquisa em Educação STEM**, atuando com coleta, tratamento e análise de dados.
 
