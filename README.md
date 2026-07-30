@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou Luiz Henrique</h1>
+<h1 align="center">Olá! Eu sou Luiz Henrique</h1>
 
 <p align="center">
   <strong>Estudante de Engenharia de Computação • Desenvolvedor Back-end Java • APIs REST</strong>
@@ -16,14 +16,6 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
   <a href="https://www.linkedin.com/in/dev-luizh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
@@ -49,61 +41,83 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 
 ## 💻 Linguagens
 
-| Tecnologia | |
-|------------|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28"/> | **Java** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> | **Python** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28"/> | **C** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/> | **JavaScript** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/> | **TypeScript** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> | **SQL / MySQL** |
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
 
 ---
 
 ## ⚙️ Frameworks
 
-| Tecnologia | |
-|------------|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28"/> | **Spring Boot / Spring Framework** |
-| 🗄️ | **Spring Data JPA / Hibernate** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="28"/> | **Angular** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/> | **React** |
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+</p>
+
+- Spring Boot
+- Spring Framework
+- Spring Data JPA
+- Hibernate
+- Angular
+- React
 
 ---
 
 ## 📊 Ciência de Dados
 
-| Tecnologia | |
-|------------|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> | **Python** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="28"/> | **Pandas** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="28"/> | **NumPy** |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="28"/> | **Scikit-learn** |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="28"/> | **Matplotlib** |
-| 🤖 | **Machine Learning** |
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45"/>
+</p>
+
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Machine Learning
 
 ---
 
 ## 🗄 Banco de Dados
 
-| Tecnologia | |
-|------------|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> | **MySQL** |
-| <img src="https://www.h2database.com/html/images/h2-logo-2.png" width="28"/> | **H2 Database** |
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://www.h2database.com/html/images/h2-logo-2.png" width="45"/>
+</p>
+
+- MySQL
+- H2 Database
 
 ---
 
 ## 🛠 Ferramentas
 
-| Tecnologia | |
-|------------|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/> | **Git** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> | **GitHub** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="28"/> | **GitLab** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28"/> | **Docker** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="28"/> | **Maven** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28"/> | **VS Code** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="28"/> | **Eclipse** |
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45"/>
+</p>
+
+- Git
+- GitHub
+- GitLab
+- Docker
+- Maven
+- VS Code
+- Eclipse
 
 ---
 
@@ -113,16 +127,18 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 
 API REST desenvolvida utilizando **Spring Boot**, implementando um CRUD completo de clientes com arquitetura em camadas, paginação, validação de dados e tratamento de exceções.
 
-### Tecnologias
+**Tecnologias**
 
-- ☕ Java
-- 🍃 Spring Boot
-- 🗄️ Spring Data JPA / Hibernate
-- 💾 H2 Database
-- 📦 Maven
-- 🔗 REST API
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- H2 Database
+- Maven
+- REST API
 
-🔗 **Repositório:**  
+🔗 **Repositório**
+
 https://github.com/LuizHSDias/crud-client-api
 
 ---
@@ -131,14 +147,15 @@ https://github.com/LuizHSDias/crud-client-api
 
 Implementação de um compilador para uma linguagem baseada em MiniPascal, contendo análise léxica, sintática, semântica e geração de bytecode para a JVM.
 
-### Tecnologias
+**Tecnologias**
 
-- ☕ Java
-- 🧩 ANTLR4
-- ⚙️ Maven
-- ☁️ JVM Bytecode
+- Java
+- ANTLR4
+- Maven
+- JVM Bytecode
 
-🔗 **Repositório:**  
+🔗 **Repositório**
+
 https://github.com/LuizHSDias/Compilador-Minipascal
 
 ---
@@ -147,18 +164,19 @@ https://github.com/LuizHSDias/Compilador-Minipascal
 
 Projeto de Ciência de Dados para prever a efetivação de matrículas utilizando técnicas de Machine Learning.
 
-### Tecnologias
+**Tecnologias**
 
-- 🐍 Python
-- 🐼 Pandas
-- 🔢 NumPy
-- 🤖 Scikit-learn
-- 📈 Matplotlib
-- 🌲 Random Forest
-- 🚀 Gradient Boosting
-- 🎯 SVM
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Random Forest
+- Gradient Boosting
+- SVM
 
-🔗 **Repositório:**  
+🔗 **Repositório**
+
 https://github.com/LuizHSDias/Ciencia_de_Dados_SISU
 
 ---
@@ -167,25 +185,17 @@ https://github.com/LuizHSDias/Ciencia_de_Dados_SISU
 
 Sistema REST para gerenciamento de empréstimos de livros utilizando arquitetura em camadas.
 
-### Tecnologias
+**Tecnologias**
 
-- ☕ Java
-- 🍃 Spring Boot
-- 🅰️ Angular
-- 🗄️ MySQL
-- 🔗 APIs REST
+- Java
+- Spring Boot
+- Angular
+- MySQL
+- APIs REST
 
-🔗 **Repositório:**  
+🔗 **Repositório**
+
 https://github.com/LuizHSDias/Front-End-PETIT
-
----
-
-# 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuizHSDias&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHSDias&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 ---
 
@@ -215,15 +225,15 @@ Concluído em 2022
 
 💼 **LinkedIn**
 
-**www.linkedin.com/in/dev-luizh**
+www.linkedin.com/in/dev-luizh
 
 🐙 **GitHub**
 
-**https://github.com/LuizHSDias**
+https://github.com/LuizHSDias
 
 🌐 **Portfólio**
 
-**https://luizhsdias.vercel.app/**
+https://luizhsdias.vercel.app/
 
 ---
 
