@@ -200,20 +200,16 @@ Concluído em 2022
 # 📫 Contato
 
 📧 **E-mail**
-
 > **<luizhenriquemc15@gmail.com>**
 
 💼 **LinkedIn**
-
-> https://www.linkedin.com/in/dev-luizh
+> **https://www.linkedin.com/in/dev-luizh>**
 
 🐙 **GitHub**
-
-> https://github.com/LuizHSDias
+> **https://github.com/LuizHSDias>**
 
 🌐 **Portfólio**
-
-> https://luizhsdias.vercel.app
+> **https://luizhsdias.vercel.app>**
 
 ---
 
