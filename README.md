@@ -1,11 +1,11 @@
-<h1 align="center">Olá! 👋 Eu sou Luiz</h1>
+<h1 align="center">Olá! 👋 Eu sou Luiz Henrique</h1>
 
 <p align="center">
-  <strong>Estudante de Engenharia de Computação • Desenvolvedor Back-end • Ciência de Dados</strong>
+  <strong>Estudante de Engenharia de Computação • Desenvolvedor Back-end Java • APIs REST</strong>
 </p>
 
 <p align="center">
-Transformando conhecimento em soluções através do desenvolvimento de software, da engenharia de software e da ciência de dados.
+Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência de Dados, sempre buscando escrever código limpo, escalável e orientado às boas práticas de desenvolvimento.
 </p>
 
 <p align="center">
@@ -16,6 +16,14 @@ Transformando conhecimento em soluções através do desenvolvimento de software
   <a href="https://www.linkedin.com/in/dev-luizh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
@@ -57,6 +65,7 @@ Transformando conhecimento em soluções através do desenvolvimento de software
 | Tecnologia | |
 |------------|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28"/> | **Spring Boot / Spring Framework** |
+| 🗄️ | **Spring Data JPA / Hibernate** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="28"/> | **Angular** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/> | **React** |
 
@@ -80,6 +89,7 @@ Transformando conhecimento em soluções através do desenvolvimento de software
 | Tecnologia | |
 |------------|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> | **MySQL** |
+| <img src="https://www.h2database.com/html/images/h2-logo-2.png" width="28"/> | **H2 Database** |
 
 ---
 
@@ -90,6 +100,7 @@ Transformando conhecimento em soluções através do desenvolvimento de software
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/> | **Git** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> | **GitHub** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="28"/> | **GitLab** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28"/> | **Docker** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="28"/> | **Maven** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28"/> | **VS Code** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="28"/> | **Eclipse** |
@@ -97,6 +108,24 @@ Transformando conhecimento em soluções através do desenvolvimento de software
 ---
 
 # 📌 Projetos em Destaque
+
+## 🚀 CRUD Client API
+
+API REST desenvolvida utilizando **Spring Boot**, implementando um CRUD completo de clientes com arquitetura em camadas, paginação, validação de dados e tratamento de exceções.
+
+### Tecnologias
+
+- ☕ Java
+- 🍃 Spring Boot
+- 🗄️ Spring Data JPA / Hibernate
+- 💾 H2 Database
+- 📦 Maven
+- 🔗 REST API
+
+🔗 **Repositório:**  
+https://github.com/LuizHSDias/crud-client-api
+
+---
 
 ## 🖥️ Compilador MiniPascal
 
@@ -151,6 +180,15 @@ https://github.com/LuizHSDias/Front-End-PETIT
 
 ---
 
+# 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuizHSDias&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHSDias&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
 # 🎓 Formação
 
 ### Engenharia de Computação
@@ -171,16 +209,20 @@ Concluído em 2022
 
 # 📫 Contato
 
-📧 **E-mail**  
+📧 **E-mail**
+
 **luizhenriquemc15@gmail.com**
 
-💼 **LinkedIn**  
+💼 **LinkedIn**
+
 **www.linkedin.com/in/dev-luizh**
 
-🐙 **GitHub**  
+🐙 **GitHub**
+
 **https://github.com/LuizHSDias**
 
-🌐 **Portfólio**  
+🌐 **Portfólio**
+
 **https://luizhsdias.vercel.app/**
 
 ---
