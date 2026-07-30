@@ -42,33 +42,12 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 ## 💻 Linguagens
 
 <p>
-☕ <strong>Java</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-🐍 <strong>Python</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-🔵 <strong>C</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-🟨 <strong>JavaScript</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-🔷 <strong>TypeScript</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-🗄️ <strong>MySQL</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -76,18 +55,9 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 ## ⚙️ Frameworks
 
 <p>
-🍃 <strong>Spring</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-🅰️ <strong>Angular</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-⚛️ <strong>React</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 ---
@@ -95,23 +65,10 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 ## 📊 Ciência de Dados
 
 <p>
-🐍 <strong>Pandas</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-📈 <strong>NumPy</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-🤖 <strong>Scikit-learn</strong>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-📉 <strong>Matplotlib</strong>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="30"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
 ---
@@ -119,13 +76,8 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 ## 🗄️ Banco de Dados
 
 <p>
-🛢️ <strong>MySQL</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-💾 <strong>H2 Database</strong>
-<img src="https://www.h2database.com/html/images/h2-logo-2.png" width="30"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/H2-09476B?style=for-the-badge"/>
 </p>
 
 ---
@@ -133,38 +85,13 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 ## 🛠 Ferramentas
 
 <p>
-🌿 <strong>Git</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-🐙 <strong>GitHub</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-🦊 <strong>GitLab</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-🐳 <strong>Docker</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-📦 <strong>Maven</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-💻 <strong>VS Code</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>
-
-&nbsp;&nbsp;&nbsp;
-
-🌑 <strong>Eclipse</strong>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="30"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 </p>
 ---
 
