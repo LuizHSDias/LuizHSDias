@@ -42,12 +42,33 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 ## 💻 Linguagens
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+☕ <strong>Java</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
+
+&nbsp;&nbsp;&nbsp;
+
+🐍 <strong>Python</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+
+&nbsp;&nbsp;&nbsp;
+
+🔵 <strong>C</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/>
+
+&nbsp;&nbsp;&nbsp;
+
+🟨 <strong>JavaScript</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+
+&nbsp;&nbsp;&nbsp;
+
+🔷 <strong>TypeScript</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
+
+&nbsp;&nbsp;&nbsp;
+
+🗄️ <strong>MySQL</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
 </p>
 
 ---
@@ -55,70 +76,96 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 ## ⚙️ Frameworks
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-</p>
+🍃 <strong>Spring</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>
 
-- Spring Boot
-- Spring Framework
-- Spring Data JPA
-- Hibernate
-- Angular
-- React
+&nbsp;&nbsp;&nbsp;
+
+🅰️ <strong>Angular</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30"/>
+
+&nbsp;&nbsp;&nbsp;
+
+⚛️ <strong>React</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+</p>
 
 ---
 
 ## 📊 Ciência de Dados
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45"/>
-</p>
+🐍 <strong>Pandas</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/>
 
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Machine Learning
+&nbsp;&nbsp;&nbsp;
+
+📈 <strong>NumPy</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/>
+
+&nbsp;&nbsp;&nbsp;
+
+🤖 <strong>Scikit-learn</strong>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30"/>
+
+&nbsp;&nbsp;&nbsp;
+
+📉 <strong>Matplotlib</strong>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="30"/>
+</p>
 
 ---
 
-## 🗄 Banco de Dados
+## 🗄️ Banco de Dados
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://www.h2database.com/html/images/h2-logo-2.png" width="45"/>
-</p>
+🛢️ <strong>MySQL</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
 
-- MySQL
-- H2 Database
+&nbsp;&nbsp;&nbsp;
+
+💾 <strong>H2 Database</strong>
+<img src="https://www.h2database.com/html/images/h2-logo-2.png" width="30"/>
+</p>
 
 ---
 
 ## 🛠 Ferramentas
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45"/>
+🌿 <strong>Git</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
+
+&nbsp;&nbsp;&nbsp;
+
+🐙 <strong>GitHub</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+
+&nbsp;&nbsp;&nbsp;
+
+🦊 <strong>GitLab</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30"/>
+
+&nbsp;&nbsp;&nbsp;
+
+🐳 <strong>Docker</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
+
+&nbsp;&nbsp;&nbsp;
+
+📦 <strong>Maven</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="30"/>
+
+&nbsp;&nbsp;&nbsp;
+
+💻 <strong>VS Code</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>
+
+&nbsp;&nbsp;&nbsp;
+
+🌑 <strong>Eclipse</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="30"/>
 </p>
-
-- Git
-- GitHub
-- GitLab
-- Docker
-- Maven
-- VS Code
-- Eclipse
-
 ---
 
 # 📌 Projetos em Destaque
