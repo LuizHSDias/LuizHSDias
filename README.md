@@ -205,9 +205,6 @@ Concluído em 2022
 💼 **LinkedIn**
 > **https://www.linkedin.com/in/dev-luizh>**
 
-🐙 **GitHub**
-> **https://github.com/LuizHSDias>**
-
 🌐 **Portfólio**
 > **https://luizhsdias.vercel.app>**
 
