@@ -10,11 +10,11 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 
 <p align="center">
   <a href="https://luizhsdias.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfólio-2563EB?style=for-the-badge" alt="Portfólio"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfólio-2563EB?style=for-the-badge"/>
   </a>
-  &nbsp;
+
   <a href="https://www.linkedin.com/in/dev-luizh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -42,12 +42,12 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 ## 💻 Linguagens
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -55,9 +55,9 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 ## ⚙️ Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 ---
@@ -65,10 +65,10 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 ## 📊 Ciência de Dados
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
 ---
@@ -76,8 +76,8 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 ## 🗄️ Banco de Dados
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/H2-09476B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/H2-09476B?style=for-the-badge"/>
 </p>
 
 ---
@@ -85,97 +85,90 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 ## 🛠 Ferramentas
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 </p>
+
 ---
 
 # 📌 Projetos em Destaque
 
 ## 🚀 CRUD Client API
 
-API REST desenvolvida utilizando **Spring Boot**, implementando um CRUD completo de clientes com arquitetura em camadas, paginação, validação de dados e tratamento de exceções.
+API REST para gerenciamento de clientes utilizando arquitetura em camadas, CRUD completo, paginação, validação de dados e tratamento de exceções.
 
 **Tecnologias**
 
-- Java
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- H2 Database
-- Maven
-- REST API
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/H2-09476B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
 
 🔗 **Repositório**
 
-https://github.com/LuizHSDias/crud-client-api
+> https://github.com/LuizHSDias/crud-client-api
 
 ---
 
 ## 🖥️ Compilador MiniPascal
 
-Implementação de um compilador para uma linguagem baseada em MiniPascal, contendo análise léxica, sintática, semântica e geração de bytecode para a JVM.
+Compilador para uma linguagem baseada em MiniPascal contendo análise léxica, sintática, semântica e geração de bytecode para JVM.
 
 **Tecnologias**
 
-- Java
-- ANTLR4
-- Maven
-- JVM Bytecode
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/ANTLR4-E34F26?style=flat-square"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
 
 🔗 **Repositório**
 
-https://github.com/LuizHSDias/Compilador-Minipascal
+> https://github.com/LuizHSDias/Compilador-Minipascal
 
 ---
 
 ## 📊 Predição de Matrículas no SISU
 
-Projeto de Ciência de Dados para prever a efetivação de matrículas utilizando técnicas de Machine Learning.
+Projeto de Ciência de Dados para previsão de matrículas utilizando algoritmos de Machine Learning.
 
 **Tecnologias**
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Random Forest
-- Gradient Boosting
-- SVM
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 🔗 **Repositório**
 
-https://github.com/LuizHSDias/Ciencia_de_Dados_SISU
+> https://github.com/LuizHSDias/Ciencia_de_Dados_SISU
 
 ---
 
 ## 📚 Sistema de Controle de Empréstimo de Livros
 
-Sistema REST para gerenciamento de empréstimos de livros utilizando arquitetura em camadas.
+Sistema para gerenciamento de empréstimos de livros desenvolvido durante projeto acadêmico.
 
 **Tecnologias**
 
-- Java
-- Spring Boot
-- Angular
-- MySQL
-- APIs REST
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 🔗 **Repositório**
 
-https://github.com/LuizHSDias/Front-End-PETIT
+> https://github.com/LuizHSDias/Front-End-PETIT
 
 ---
 
 # 🎓 Formação
 
-### Engenharia de Computação
+### 🎓 Engenharia de Computação
 
 **Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)**
 
@@ -183,7 +176,7 @@ https://github.com/LuizHSDias/Front-End-PETIT
 
 ---
 
-### Técnico em Informática
+### 💻 Técnico em Informática
 
 **Universidade Federal de Viçosa (UFV)**
 
@@ -195,25 +188,23 @@ Concluído em 2022
 
 📧 **E-mail**
 
-**luizhenriquemc15@gmail.com**
+> **<luizhenriquemc15@gmail.com>**
 
 💼 **LinkedIn**
 
-www.linkedin.com/in/dev-luizh
+> https://www.linkedin.com/in/dev-luizh
 
 🐙 **GitHub**
 
-https://github.com/LuizHSDias
+> https://github.com/LuizHSDias
 
 🌐 **Portfólio**
 
-https://luizhsdias.vercel.app/
+> https://luizhsdias.vercel.app
 
 ---
 
-<h3 align="center">
-⭐ Obrigado pela visita!
-</h3>
+<h3 align="center">⭐ Obrigado pela visita!</h3>
 
 <p align="center">
 Fique à vontade para explorar meus repositórios, conhecer meus projetos e acompanhar minha evolução como desenvolvedor.
