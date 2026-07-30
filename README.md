@@ -52,7 +52,7 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 
 ---
 
-## ⚙️ Frameworks
+## ⚙️ Frameworks e Tecnologias
 
 <p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
