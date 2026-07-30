@@ -37,7 +37,7 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 
 ---
 
-# 🚀 Tecnologias
+# 🛠 Stack
 
 ## 💻 Linguagens
 
