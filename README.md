@@ -203,10 +203,10 @@ Concluído em 2022
 > **<luizhenriquemc15@gmail.com>**
 
 💼 **LinkedIn**
-> **https://www.linkedin.com/in/dev-luizh>**
+> **<https://www.linkedin.com/in/dev-luizh>**
 
 🌐 **Portfólio**
-> **https://luizhsdias.vercel.app>**
+> **<https://luizhsdias.vercel.app>**
 
 ---
 
