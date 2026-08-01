@@ -28,13 +28,6 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 
 🔬 Atualmente sou **Bolsista de Pesquisa em Educação STEM**, atuando com coleta, tratamento e análise de dados.
 
-🚀 Tenho interesse em:
-
-- Desenvolvimento Back-end
-- Engenharia de Software
-- Ciência de Dados
-- Inteligência Artificial
-
 ---
 
 # 🛠 Stack
