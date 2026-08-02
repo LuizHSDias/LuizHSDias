@@ -20,6 +20,10 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
   <a href="https://www.linkedin.com/in/dev-luizh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="mailto:luizhenriquemc15@gmail.com?subject=Contato%20via%20GitHub">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
