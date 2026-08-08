@@ -31,7 +31,7 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 
 💻 Técnico em Informática pela **Universidade Federal de Viçosa (UFV) – Campus Florestal**.
 
-🔬 Atualmente sou **Bolsista de Pesquisa em Educação STEM**, atuando com coleta, tratamento e análise de dados.
+🔬 Atualmente sou **Bolsista de Iniciação Científica em Educação STEM**, atuando com coleta, tratamento e análise de dados.
 
 ---
 
