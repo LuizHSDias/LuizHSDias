@@ -13,7 +13,7 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
     <img src="https://img.shields.io/badge/🌐%20Portfólio-2563EB?style=for-the-badge"/>
   </a>
 
-  <a href="https://luizhsdias.vercel.app/resume" target="_blank">
+  <a href="https://drive.google.com/file/d/1F0NafNq5coKOsUGtdZtLopX1LNJe_CfH/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Currículo-E11D48?style=for-the-badge"/>
   </a>
 
