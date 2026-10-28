@@ -108,25 +108,7 @@ Desenvolvendo soluções com foco em Back-end, Engenharia de Software e Ciência
 
 ---
 
-# 📌 Projetos em Destaque
-
-## 🚀 CRUD Client API
-
-API REST para gerenciamento de clientes utilizando arquitetura em camadas, CRUD completo, paginação, validação de dados e tratamento de exceções.
-
-**Tecnologias**
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/H2-09476B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
-
-🔗 **Repositório**
-
-> https://github.com/LuizHSDias/crud-client-api
-
----
+# 📌 Projetos 
 
 ## 🖥️ Compilador MiniPascal
 
@@ -175,42 +157,3 @@ Sistema para gerenciamento de empréstimos de livros desenvolvido durante projet
 🔗 **Repositório**
 
 > https://github.com/LuizHSDias/Front-End-PETIT
-
----
-
-# 🎓 Formação
-
-### 🎓 Engenharia de Computação
-
-**Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)**
-
-2023 – 2028
-
----
-
-### 💻 Técnico em Informática
-
-**Universidade Federal de Viçosa (UFV)**
-
-Concluído em 2022
-
----
-
-# 📫 Contato
-
-📧 **E-mail**
-> **<luizhenriquemc15@gmail.com>**
-
-💼 **LinkedIn**
-> **<https://www.linkedin.com/in/dev-luizh>**
-
-🌐 **Portfólio**
-> **<https://luizhsdias.vercel.app>**
-
----
-
-<h3 align="center">⭐ Obrigado pela visita!</h3>
-
-<p align="center">
-Fique à vontade para explorar meus repositórios, conhecer meus projetos e acompanhar minha evolução como desenvolvedor.
-</p>
